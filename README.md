@@ -1,6 +1,6 @@
 # PathFindingVisualiser-Project-S2
 
-An interactive educational tool designed to visualize Dijkstra's shortest path algorithm. This application allows users to create directed graphs manually and observe the process used to calculate optimal paths.
+An interactive educational tool designed to visualise Dijkstra's shortest path algorithm. This application allows users to create directed graphs manually and observe the process used to calculate optimal paths.
 
 ## Development and Tools
 
