@@ -15,7 +15,7 @@ Written in **C** and developed in **Visual Studio Code**, using **Raylib 5.0** l
 * Built using a custom Min-Heap for efficient pathfinding.
 
 ## How to Use
-* Download the Zip file then extract it
+* Download the Zip file, then extract it
 * Navigate to main.c in src file and double click it
 * Press F5 on keyboard to run
 
