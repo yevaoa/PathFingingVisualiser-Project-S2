@@ -31,9 +31,9 @@ Source: https://www.raylib.com/
 | :--- | :--- |
 | Place Node | Left Click |
 | Create Directed Edge | Right Click Drag (Node to Node) |
-| Set Start Node | S + Left Click |
-| Set Finish Node | E + Left Click |
-| Erase Node/Edge | Z + Left Click |
+| Set Start Node | Ctrl + S + Left Click |
+| Set Finish Node | Ctrl + E + Left Click |
+| Erase Node/Edge | Ctrl + Z + Left Click |
 | Execute Algorithm | Spacebar |
 | Reset Logic | R Key |
 | Clear Canvas | C Key |
