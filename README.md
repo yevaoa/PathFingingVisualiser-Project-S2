@@ -12,12 +12,12 @@ Written in **C** and developed in **Visual Studio Code**, using **Raylib 5.0** l
 * Nodes flash yellow when a shorter path is identified and distances are updated.
 * Explicitly define Starting (Green) and Ending (Red) points using keyboard modifiers given below.
 * Display real-time edge weights and node distances from the source.
-* Built using a custom Min-Heap for efficient pathfinding.
+* Block nodes to evade passing through them.
 
 ## How to Use
-* Download the Zip file, then extract it
-* Navigate to main.c in src file and double click it
-* Press F5 on keyboard to run
+* Download the Zip file, then extract it.
+* Navigate to main.c in src file and double click it.
+* Press F5 on keyboard to run.
 
 ## Important Note
 
@@ -31,20 +31,20 @@ Source: https://www.raylib.com/
 | :--- | :--- |
 | Place Node | Left Click |
 | Create Directed Edge | Right Click Drag (Node to Node) |
-| Set Start Node | Ctrl + S + Left Click |
-| Set Finish Node | Ctrl + E + Left Click |
-| Erase Node/Edge | Ctrl + Z + Left Click |
-| Execute Algorithm | Spacebar |
+| Set Start Node | S + Left Click |
+| Set Finish Node | E + Left Click |
+| Block/Unblock a Node | B + Left Click
+| Erase a Node | Z + Left Click |
+| Run | Spacebar |
 | Reset Logic | R Key |
 | Clear Canvas | C Key |
 
 ## An Example
-<img width="800" height="576" alt="example (2)" src="https://github.com/user-attachments/assets/2d625f1e-65c1-405a-86d4-aadcbd8e2d85" />
+<img width="400" height="271" alt="Recording 2026-05-02 181210" src="https://github.com/user-attachments/assets/edf96950-957c-4d1c-a934-452a9f95ef73" />
+
 
 
 ## Known Issues
-
-The main one is probably the not-so pleasant UI, which I will be working on later! :) 
 If you find any other issues please let me know.
 
 ## Credits
